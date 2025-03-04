@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'UONLRA.BLOG',
-  HEO_HERO_TITLE_4: 'Passion',
-  HEO_HERO_TITLE_5: 'NotionNext4.0',
+  HEO_HERO_TITLE_4: '🔥Passion 🔥',
+  HEO_HERO_TITLE_5: 'NotionNext4.0 🌟，欢迎加入！',
   HEO_HERO_TITLE_LINK: 'https://docs.tangly1024.com/en',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
