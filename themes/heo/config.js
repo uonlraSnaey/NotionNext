@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.uonlra.blog/' },
-    { title: '尝试联系我，我将很高兴能认识你', url:'ciencatsanye@gmail.com' },
+    { title: '尝试联系我', url:'ciencatsanye@gmail.com' },
     { title: '这里是nition相关文档', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -23,8 +23,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'UONLRA.BLOG',
   HEO_HERO_TITLE_4: '🔥Passion 🔥',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 🌟，欢迎加入！',
-  HEO_HERO_TITLE_LINK: 'https://docs.tangly1024.com/en',
+  HEO_HERO_TITLE_5: 'CSDIY  🌟，朋友，去开始你的CS学习之旅吧',
+  HEO_HERO_TITLE_LINK: 'https://csdiy.wiki/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -118,8 +118,8 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_1: 'Notion 交流频道',
+  HEO_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
   HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
 
